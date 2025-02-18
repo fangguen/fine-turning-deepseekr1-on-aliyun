@@ -47,7 +47,7 @@ wandb.login(key="your_wb_token")
 
 Login to huggingface to enable model loading:
 ```bash
-
+token = "your_hf_token"
 ```
 
 ### 4. Prepare Dataset
