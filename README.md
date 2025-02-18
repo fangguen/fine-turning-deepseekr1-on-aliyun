@@ -69,3 +69,5 @@ The script will fine-tune the model on the provided dataset and save the model i
 ## Output:
 - Fine-tuned model saved to `deepseek_sql_model`.
 - Logs and metrics available on your WandB dashboard.
+
+参考视频：https://www.bilibili.com/video/BV1pCNaeaEEJ
